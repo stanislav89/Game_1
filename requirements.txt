@@ -1,0 +1,9 @@
+astroid==2.6.5
+colorama==0.4.4
+isort==5.9.2
+lazy-object-proxy==1.6.0
+mccabe==0.6.1
+names==0.3.0
+pylint==2.9.5
+toml==0.10.2
+wrapt==1.12.1
